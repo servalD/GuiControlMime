@@ -1,0 +1,6 @@
+pyqt5
+pandas
+pynput
+pywin32
+pollow
+numpy

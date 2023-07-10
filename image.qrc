@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/wintbar/close.png</file>
+    <file>icon/whitemouselitle.ico</file>
+    <file>icon/whitemouse.ico</file>
+    <file>icon/saveAsket_notsuperposed.png</file>
+    <file>icon/saveket.png</file>
+    <file>icon/saveket.png</file>
+    <file>icon/down.png</file>
+    <file>icon/up.png</file>
+    <file>icon/load.png</file>
+    <file>icon/moins.png</file>
+    <file>icon/mouse.ico</file>
+    <file>icon/pause.png</file>
+    <file>icon/play.png</file>
+    <file>icon/plus.png</file>
+    <file>icon/rec.png</file>
+    <file>icon/redo.png</file>
+    <file>icon/save.png</file>
+    <file>icon/stop.png</file>
+    <file>icon/undo.png</file>
+    <file>icon/wintbar/max.png</file>
+    <file>icon/wintbar/min.png</file>
+    <file>icon/wintbar/minimizeToTaskBar.png</file>
+  </qresource>
+</RCC>
